@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Emily Huffaker",
+    "section": "",
+    "text": "Emily Huffaker\nMadison, WI · Willing to Relocate\nemilymhuffaker@gmail.com · (254) 781-1220"
+  },
+  {
+    "objectID": "index.html#summary",
+    "href": "index.html#summary",
+    "title": "Emily Huffaker",
+    "section": "Summary",
+    "text": "Summary\nData Analyst and M.S. Data Science candidate with expertise in Python, R, SQL, statistical modeling, and machine learning. Experienced analyzing large-scale healthcare datasets, building predictive models, and delivering actionable insights through dashboards and automated reporting solutions. Proven ability to translate complex data into business recommendations through statistical analysis, data visualization, and cross-functional collaboration."
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Emily Huffaker",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nProgramming & Analysis: Python (pandas, scikit-learn), R (tidyverse), SQL (AWS Redshift)\nData Visualization: Tableau, SAP BusinessObjects, ggplot2\nStatistical Methods: Predictive Modeling, Linear & Logistic Regression, Hypothesis Testing, Model Evaluation, Feature Engineering, Cross-Validation, Supervised Learning\nData Platforms & Tools: AWS Redshift, DataGrip, ServiceNow, Smartsheets, Microsoft Suite\nOther Skills: Healthcare Analytics, KPI Development, Process Improvement, Stakeholder Communication"
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "Emily Huffaker",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nModivcare – Austin, TX/Remote\nData Analyst I · August 2022 – March 2026\n\nAnalyzed and transformed large healthcare datasets (5M+ records) using SQL, Python, and R to support data-driven operational decisions\nDeveloped statistical and predictive models in R and Python to identify key drivers of service performance and workflow efficiency\nBuilt and maintained 10+ Tableau dashboards used weekly by 200+ stakeholders, reducing ad-hoc reporting requests by 30%\nWrote and optimized complex SQL queries in AWS Redshift, reducing data-related errors by 25%\nDesigned automated reporting solutions to streamline recurring analyses and improve reporting accuracy\nPresented analytical findings through Tableau dashboards and executive-facing reports used by 200+ stakeholders\n\n\n\nNEXT Insurance – Austin, TX/Remote\nInsurance Advisor and Consultant/Subject Matter Expert · June 2021 – August 2022\n\nAdvised 100+ small business clients on tailored insurance products, improving client satisfaction scores\nLed 5+ training sessions for new hires on product knowledge, customer service, and consultative sales techniques\nActed as SME during product development sprints, helping improve user experience and product adoption\nProvided resolution for escalated client issues, achieving a 95%+ satisfaction rating\n\n\n\nModivcare – Austin, TX/Remote\nMember Experience/Quality Assurance Lead · August 2018 – June 2021\n\nSupervised and mentored a team of 10–12 QA agents, ensuring compliance and service quality standards\nDesigned and implemented process improvements that boosted efficiency and reduced repeat errors by 15%\nHandled escalated member complaints for Medicaid & Medicare programs, maintaining a 90%+ resolution rate\nPartnered with Texas state stakeholders to ensure call center compliance with regulatory requirements"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Emily Huffaker",
+    "section": "Projects",
+    "text": "Projects\n\nNeural Network Modeling with scikit-learn (Advisor: Adam Ross Nelson)\n\nDeveloped and evaluated neural network models in Python using scikit-learn\nPerformed data preprocessing, feature engineering, model training, and performance evaluation\nCompared model performance using appropriate validation metrics\n\n\n\nEmotion Regulation Research Project (Advisor: João Guassi Moreira)\n\nApplied statistical modeling and data analysis techniques to investigate behavioral and psychological factors associated with emotion regulation\nConducted data cleaning, exploratory analysis, and interpretation of results\nCommunicated findings through written reports and data visualizations\n\n\n\nSimulation Study (Advisor: Markus Brauer)\n\nDesigned and implemented simulation-based analyses in R to examine statistical properties across repeated sampling scenarios\nGenerated synthetic populations, drew repeated samples, and evaluated parameter estimates under varying conditions\nApplied principles of experimental design, probability, and statistical inference"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Emily Huffaker",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Wisconsin – Madison, WI\nMaster of Science – Data Science in Human Behavior · Expected December 2026\nRelevant Coursework: Machine Learning, Statistical Modeling, Experimental Design, Behavioral Analytics\n\n\nTexas State University – San Marcos, TX\nBachelor of Liberal Arts in Psychology – Cum Laude · May 2021\n\n\nTemple College – Temple, TX\nAssociate of Applied Arts in Psychology · May 2018"
+  }
+]
