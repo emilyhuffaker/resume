@@ -1,7 +1,80 @@
 ---
-title: "resume"
+title: "Emily Huffaker"
 ---
 
-This is a Quarto website.
+Emily Huffaker  
+Madison, WI · Willing to Relocate  
+emilymhuffaker@gmail.com · (254) 781-1220
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Summary
+
+Data Analyst and M.S. Data Science candidate with expertise in Python, R, SQL, statistical modeling, and machine learning. Experienced analyzing large-scale healthcare datasets, building predictive models, and delivering actionable insights through dashboards and automated reporting solutions. Proven ability to translate complex data into business recommendations through statistical analysis, data visualization, and cross-functional collaboration.
+
+## Technical Skills
+
+- **Programming & Analysis:** Python (pandas, scikit-learn), R (tidyverse), SQL (AWS Redshift)
+- **Data Visualization:** Tableau, SAP BusinessObjects, ggplot2
+- **Statistical Methods:** Predictive Modeling, Linear & Logistic Regression, Hypothesis Testing, Model Evaluation, Feature Engineering, Cross-Validation, Supervised Learning
+- **Data Platforms & Tools:** AWS Redshift, DataGrip, ServiceNow, Smartsheets, Microsoft Suite
+- **Other Skills:** Healthcare Analytics, KPI Development, Process Improvement, Stakeholder Communication
+
+## Work Experience
+
+### Modivcare – Austin, TX/Remote  
+**Data Analyst I** · August 2022 – March 2026
+
+- Analyzed and transformed large healthcare datasets (5M+ records) using SQL, Python, and R to support data-driven operational decisions
+- Developed statistical and predictive models in R and Python to identify key drivers of service performance and workflow efficiency
+- Built and maintained 10+ Tableau dashboards used weekly by 200+ stakeholders, reducing ad-hoc reporting requests by 30%
+- Wrote and optimized complex SQL queries in AWS Redshift, reducing data-related errors by 25%
+- Designed automated reporting solutions to streamline recurring analyses and improve reporting accuracy
+- Presented analytical findings through Tableau dashboards and executive-facing reports used by 200+ stakeholders
+
+### NEXT Insurance – Austin, TX/Remote  
+**Insurance Advisor and Consultant/Subject Matter Expert** · June 2021 – August 2022
+
+- Advised 100+ small business clients on tailored insurance products, improving client satisfaction scores
+- Led 5+ training sessions for new hires on product knowledge, customer service, and consultative sales techniques
+- Acted as SME during product development sprints, helping improve user experience and product adoption
+- Provided resolution for escalated client issues, achieving a 95%+ satisfaction rating
+
+### Modivcare – Austin, TX/Remote  
+**Member Experience/Quality Assurance Lead** · August 2018 – June 2021
+
+- Supervised and mentored a team of 10–12 QA agents, ensuring compliance and service quality standards
+- Designed and implemented process improvements that boosted efficiency and reduced repeat errors by 15%
+- Handled escalated member complaints for Medicaid & Medicare programs, maintaining a 90%+ resolution rate
+- Partnered with Texas state stakeholders to ensure call center compliance with regulatory requirements
+
+## Projects
+
+### Neural Network Modeling with scikit-learn (Advisor: Adam Ross Nelson)
+
+- Developed and evaluated neural network models in Python using scikit-learn
+- Performed data preprocessing, feature engineering, model training, and performance evaluation
+- Compared model performance using appropriate validation metrics
+
+### Emotion Regulation Research Project (Advisor: João Guassi Moreira)
+
+- Applied statistical modeling and data analysis techniques to investigate behavioral and psychological factors associated with emotion regulation
+- Conducted data cleaning, exploratory analysis, and interpretation of results
+- Communicated findings through written reports and data visualizations
+
+### Simulation Study (Advisor: Markus Brauer)
+
+- Designed and implemented simulation-based analyses in R to examine statistical properties across repeated sampling scenarios
+- Generated synthetic populations, drew repeated samples, and evaluated parameter estimates under varying conditions
+- Applied principles of experimental design, probability, and statistical inference
+
+## Education
+
+### University of Wisconsin – Madison, WI  
+**Master of Science – Data Science in Human Behavior** · Expected December 2026
+
+Relevant Coursework: Machine Learning, Statistical Modeling, Experimental Design, Behavioral Analytics
+
+### Texas State University – San Marcos, TX  
+**Bachelor of Liberal Arts in Psychology – Cum Laude** · May 2021
+
+### Temple College – Temple, TX  
+**Associate of Applied Arts in Psychology** · May 2018
